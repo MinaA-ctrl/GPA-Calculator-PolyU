@@ -1,0 +1,6 @@
+PSEUDO CODE:
+Create an empty dataset with each year and two semesters inside it
+
+function that ask of entering information about semester
+function that calculates GPA from each semester
+...
